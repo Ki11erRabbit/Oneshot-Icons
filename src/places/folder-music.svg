@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="folder-music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="16.875"
+     inkscape:cy="8.0625"
+     inkscape:window-width="1390"
+     inkscape:window-height="1392"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="1"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Visibility"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:none"
+       id="rect3"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Folder Outline"
+     style="display:inline">
+    <path
+       id="rect2"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="m 13,2 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-5"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 12,2 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-6"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,2 h 1 V 3 H 9 Z" />
+    <path
+       id="rect2-7"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,2 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-2"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,2 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-59"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,3 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-9"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,3 H 9 V 4 H 8 Z" />
+    <path
+       id="rect2-1"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,4 H 8 V 5 H 7 Z" />
+    <path
+       id="rect2-19"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,4 H 7 V 5 H 6 Z" />
+    <path
+       id="rect2-4"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,4 H 6 V 5 H 5 Z" />
+    <path
+       id="rect2-61"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 4,4 H 5 V 5 H 4 Z" />
+    <path
+       id="rect2-20"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,4 H 4 V 5 H 3 Z" />
+    <path
+       id="rect2-54"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,4 H 3 V 5 H 2 Z" />
+    <path
+       id="rect2-69"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 1,5 H 2 V 6 H 1 Z" />
+    <path
+       id="rect2-52"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 1,6 H 2 V 7 H 1 Z" />
+    <path
+       id="rect2-44"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 1,7 H 2 V 8 H 1 Z" />
+    <path
+       id="rect2-8"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 1,8 H 2 V 9 H 1 Z" />
+    <path
+       id="rect2-43"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,9 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-206"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,10 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-66"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,11 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-0"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,12 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-17"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,13 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-26"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 1,14 h 1 v 1 H 1 Z" />
+    <path
+       id="rect2-15"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,5 H 9 V 6 H 8 Z" />
+    <path
+       id="rect2-09"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,5 h 1 V 6 H 9 Z" />
+    <path
+       id="rect2-11"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,5 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-76"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,5 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-56"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 12,5 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-81"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 13,5 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-90"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,5 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-096"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,4 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-611"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,6 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-48"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,7 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-04"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-763"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-96"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-85"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-859"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-88"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,13 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-964"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 14,14 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-86"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 13,14 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-889"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 12,14 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-430"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,14 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-25"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,14 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-94"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,14 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-24"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,14 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-481"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,14 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-3"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,14 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-21"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,14 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-10"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,14 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-64"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,14 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-862"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,14 h 1 v 1 H 2 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Full Folder"
+     style="display:none">
+    <path
+       id="rect2-240"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 10,3 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-1"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 11,3 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-0"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 9,3 h 1 V 4 H 9 Z" />
+    <path
+       id="rect2-240-9"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="M 8,4 H 9 V 5 H 8 Z" />
+    <path
+       id="rect2-240-3"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 9,4 h 1 V 5 H 9 Z" />
+    <path
+       id="rect2-240-6"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 10,4 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-04"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 11,4 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-7"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 12,4 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-8"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 13,4 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-2"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 13,3 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-240-02"
+       style="display:inline;fill:#cacaca;fill-opacity:1;fill-rule:evenodd"
+       d="m 12,3 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Pictures"
+     style="display:none">
+    <path
+       id="rect2-20-8"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-80"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-6"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-2"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-5"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-0"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-804"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 4,8 H 5 V 9 H 4 Z" />
+    <path
+       id="rect2-20-9"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-4"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-3"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-51"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,9 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-1"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-68"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-87"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,7 h 1 V 8 H 9 Z" />
+    <path
+       id="rect2-20-33"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,10 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-65"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,11 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-879"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-89"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-92"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-99"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-35"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-25"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-21"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-31"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,11 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-56"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,12 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-06"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,12 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-85"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-066"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-896"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-101"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-26"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-029"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,12 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Network"
+     style="display:none">
+    <path
+       id="rect2-20-45"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-7"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-04"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-09"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-83"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-787"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-098"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-43"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-516"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-96"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-49"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,7 h 1 V 8 H 9 Z" />
+    <path
+       id="rect2-20-60"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-94"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-15"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-838"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,9 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-27"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,9 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Shared"
+     style="display:none">
+    <path
+       id="rect2-20-12"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-090"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-37"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-30"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-75"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-22"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-41"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-859"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-64"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-221"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-215"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-03"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-02"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-50"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-58"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-73"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-07"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-91"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Favorites"
+     style="display:none">
+    <path
+       id="rect2-20-898"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-70"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-17"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-62"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-88"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-568"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-450"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-272"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-941"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-20"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-74"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-076"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-251"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-312"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-749"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-59"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-960"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,12 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-945"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-93"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 4,8 H 5 V 9 H 4 Z" />
+    <path
+       id="rect2-20-156"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,8 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Documents"
+     style="display:none">
+    <path
+       id="rect2-20-29"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-24"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-910"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-48"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-290"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-379"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-832"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-39"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-72"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-05"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-79"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-125"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-887"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-791"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-684"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-274"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-47"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-95"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-55"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-991"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-053"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Time"
+     style="display:none">
+    <path
+       id="rect2-20-643"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-048"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-97"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-923"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-416"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-501"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-856"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-69"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-152"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-46"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-3790"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-690"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-411"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-874"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-884"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Home"
+     style="display:none">
+    <path
+       id="rect2-20-682"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-059"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-52"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-78"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-629"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-723"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-894"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-354"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-350"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-707"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-394"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-556"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-699"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-553"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-36"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-930"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-524"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-854"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-8323"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-470"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-54"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-5161"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-121"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-01"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-42"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-81"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-581"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-754"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-721"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,11 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-77"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,12 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-10"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,10 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-86"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,10 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Downloads"
+     style="display:none">
+    <path
+       id="rect2-20-307"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-302"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-520"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-965"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-207"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-016"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-889"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-031"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-732"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-338"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-808"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-374"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-396"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-295"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-491"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-813"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-451"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-330"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Trash"
+     style="display:none">
+    <path
+       id="rect2-20-224"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-547"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-064"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-810"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-264"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-708"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-16"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-015"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-628"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-2728"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-979"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-805"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-437"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-158"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-475"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-201"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-482"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-458"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-425"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-57"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-866"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-126"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-28"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-67"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Search"
+     style="display:none">
+    <path
+       id="rect2-20-783"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-502"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-626"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-34"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-308"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-108"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-882"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-935"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-277"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-047"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-8086"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,12 h 1 v 1 h -1 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Music"
+     style="display:inline">
+    <path
+       id="rect2-20-200"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,7 h 1 V 8 H 9 Z" />
+    <path
+       id="rect2-20-096"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-44"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-84"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-680"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-38"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-171"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-675"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-9797"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-419"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,7 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-583"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,11 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-955"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-120"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-944"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-249"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-574"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-2720"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,11 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-949"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,12 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-420"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-892"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-90"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-287"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-8983"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-19"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,7 H 6 V 8 H 5 Z" />
+    <path
+       id="rect2-20-14"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,11 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-20-66"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,12 h 1 v 1 H 3 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Video"
+     style="display:none">
+    <path
+       id="rect2-20-807"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,7 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-339"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-360"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-020"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-08"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-939"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-647"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,11 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-875"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-696"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-8598"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,8 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-858"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-528"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-579"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,9 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-969"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,8 H 9 V 9 H 8 Z" />
+    <path
+       id="rect2-20-736"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,10 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-40"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,11 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-665"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-8875"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-291"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-376"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,7 H 7 V 8 H 6 Z" />
+    <path
+       id="rect2-20-2018"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,7 H 6 V 8 H 5 Z" />
+    <path
+       id="rect2-20-205"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 4,7 H 5 V 8 H 4 Z" />
+    <path
+       id="rect2-20-919"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 4,8 H 5 V 9 H 4 Z" />
+    <path
+       id="rect2-20-1257"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,9 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-141"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,10 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-773"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,11 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-747"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,12 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-893"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,12 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-0647"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-163"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-592"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,11 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-771"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-468"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-109"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,8 H 8 V 9 H 7 Z" />
+    <path
+       id="rect2-20-1262"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-054"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
+    <path
+       id="rect2-20-877"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-32"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-575"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,10 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-5833"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-61"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,11 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-025"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Desktop"
+     style="display:none">
+    <path
+       id="rect2-20-697"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,13 h 1 v 1 H 2 Z" />
+    <path
+       id="rect2-20-329"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,13 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-20-0643"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,13 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-20-145"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,13 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-996"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,13 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-597"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,13 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-18"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,13 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-546"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,13 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-71"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,13 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-6807"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 12,13 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-961"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 13,13 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-661"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,13 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-642"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,7 H 4 V 8 H 3 Z" />
+    <path
+       id="rect2-20-072"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,9 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-20-3543"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,11 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-20-8874"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,7 H 6 V 8 H 5 Z" />
+    <path
+       id="rect2-20-217"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-608"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,11 h 1 v 1 H 5 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Global"
+     style="display:none">
+    <path
+       id="rect2-20-899"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,7 H 8 V 8 H 7 Z" />
+    <path
+       id="rect2-20-687"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 8,7 H 9 V 8 H 8 Z" />
+    <path
+       id="rect2-20-836"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,8 h 1 V 9 H 9 Z" />
+    <path
+       id="rect2-20-594"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 6,8 H 7 V 9 H 6 Z" />
+    <path
+       id="rect2-20-00"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,9 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-347"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,10 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-20-82"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,11 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-212"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-469"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-20-409"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,11 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-7233"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,10 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-161"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,9 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-20-146"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,9 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-652"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,10 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-20-964"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,9 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-20-6299"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,9 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-20-752"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,10 h 1 v 1 H 9 Z" />
+  </g>
+</svg>
