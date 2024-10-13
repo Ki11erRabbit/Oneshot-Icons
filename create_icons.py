@@ -21,6 +21,7 @@ colors = {
 output_dir = "oneshot_icons"
 source_dir = "src"
 icon_sizes = [16, 32, 48, 64, 128, 256, 512]
+cursor_sizes = [24, 32, 48, 64, 72, 120, 144, 240]
 
 def create_icon(size, color, file_type):
     if os.path.exists(f"{output_dir}/{size}x{size}"):
@@ -54,6 +55,18 @@ def create_scallable_icon(color):
         proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{source_dir}/{file}")
         proc.wait()
 
+def create_cursor(size):
+    if os.path.exists(f"{output_dir}/cursor/{size}x{size}"):
+        print(f"Icon {size}x{size} already exists.")
+        return
+    else:
+        os.makedirs(f"{output_dir}/cursor/{size}x{size}")
+
+    if not os.path.exists(f"{os.getcwd()}/{output_dir}/cursor/{size}x{size}"):
+        os.makedirs(f"{os.getcwd()}/{output_dir}/cursor/{size}x{size}")
+    program = ['./convert.sh', str(size), f"{os.getcwd()}/{output_dir}/cursor/{size}x{size}/"]
+    proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{source_dir}/cursors")
+    proc.wait()
 
 def main(args):
     if not os.path.exists(output_dir):
@@ -69,6 +82,8 @@ def main(args):
         create_icon(size, color, 'png')
 
     create_scallable_icon(color)
+    for size in cursor_sizes: 
+        create_cursor(size)
 
 
 
