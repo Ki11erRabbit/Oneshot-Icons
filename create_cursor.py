@@ -21,9 +21,11 @@ class CursorConf:
 
     def create_symlink(self):
         for link in self.x11_links:
+            print(f'Creating symlink for {link}.')
             os.symlink(f'{self.x11_name}', link)
     
     def create_cursor(self):
+        print(f'Creating cursor {self.x11_name}.')
         self.write_conf()
         process = subprocess.Popen(['xcursorgen', f'{self.x11_name}.in', f'{self.x11_name}'])
         self.create_symlink()
