@@ -6,8 +6,8 @@ import subprocess
 class CursorConf:
     def __init__(self, size, x, y, name, x11_name, x11_links, files, refresh_rate=1000):
         self.size = size
-        self.x = x #* size
-        self.y = y #* size
+        self.x = x * (size // 16)
+        self.y = y * (size // 16)
         self.name = name
         self.x11_name = x11_name
         self.x11_links = x11_links
