@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="size_ew.svg"
+   sodipodi:docname="plus.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="7.21875"
+     inkscape:cx="7.203125"
      inkscape:cy="9.75"
      inkscape:window-width="1390"
      inkscape:window-height="1392"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -67,181 +67,139 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g81"
-     inkscape:label="size_EW"
-     style="display:inline"
-     transform="translate(0,-3)">
+     id="layer2"
+     inkscape:label="plus">
     <path
-       id="path6"
+       id="path292-0-0-94-06-53"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 0,6 H 1 V 7 H 0 Z" />
+       d="M 2,0 H 3 V 1 H 2 Z" />
     <path
-       id="path9"
+       id="path292-0-0-94-06-91"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 3,4 H 4 V 5 H 3 Z" />
+       d="M 3,0 H 4 V 1 H 3 Z" />
     <path
-       id="path10"
+       id="path292-0-0-94-06-93"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 2,4 H 3 V 5 H 2 Z" />
+       d="M 4,0 H 5 V 1 H 4 Z" />
     <path
-       id="path11"
+       id="path292-0-0-94-06-26"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 1,5 H 2 V 6 H 1 Z" />
+       d="M 4,1 H 5 V 2 H 4 Z" />
     <path
-       id="path12"
+       id="path292-0-0-94-06-92"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 1,7 H 2 V 8 H 1 Z" />
+       d="M 2,1 H 3 V 2 H 2 Z" />
     <path
-       id="path13"
+       id="path292-0-0-94-06-75"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 2,8 H 3 V 9 H 2 Z" />
+       d="M 1,2 H 2 V 3 H 1 Z" />
     <path
-       id="path14"
+       id="path292-0-0-94-06-8"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 3,8 H 4 V 9 H 3 Z" />
+       d="M 0,2 H 1 V 3 H 0 Z" />
     <path
-       id="path22"
+       id="path292-0-0-94-06-61"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 9,8 h 1 V 9 H 9 Z" />
+       d="M 0,3 H 1 V 4 H 0 Z" />
     <path
-       id="path23"
+       id="path292-0-0-94-06-19"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 10,8 h 1 v 1 h -1 z" />
+       d="M 0,4 H 1 V 5 H 0 Z" />
     <path
-       id="path24"
+       id="path292-0-0-94-06-4"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 11,7 h 1 v 1 h -1 z" />
+       d="M 1,4 H 2 V 5 H 1 Z" />
     <path
-       id="path25"
+       id="path292-0-0-94-06-610"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 12,6 h 1 v 1 h -1 z" />
+       d="M 5,2 H 6 V 3 H 5 Z" />
     <path
-       id="path26"
+       id="path292-0-0-94-06-0"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 11,5 h 1 v 1 h -1 z" />
+       d="M 6,2 H 7 V 3 H 6 Z" />
     <path
-       id="path27"
+       id="path292-0-0-94-06-54"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 10,4 h 1 v 1 h -1 z" />
+       d="M 6,3 H 7 V 4 H 6 Z" />
     <path
-       id="path28"
+       id="path292-0-0-94-06-69"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="m 9,4 h 1 V 5 H 9 Z" />
+       d="M 6,4 H 7 V 5 H 6 Z" />
     <path
-       id="path31"
+       id="path292-0-0-94-06-52"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 7,5 H 8 V 6 H 7 Z" />
+       d="M 5,4 H 6 V 5 H 5 Z" />
     <path
-       id="path32"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 8,5 H 9 V 6 H 8 Z" />
-    <path
-       id="path35"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 5,5 H 6 V 6 H 5 Z" />
-    <path
-       id="path36"
+       id="path292-0-0-94-06-44"
        style="display:inline;fill:#000000;fill-rule:evenodd"
        d="M 4,5 H 5 V 6 H 4 Z" />
     <path
-       id="path38"
+       id="path292-0-0-94-06-86"
        style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 4,7 H 5 V 8 H 4 Z" />
-    <path
-       id="path39"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 5,7 H 6 V 8 H 5 Z" />
-    <path
-       id="path42"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 7,7 H 8 V 8 H 7 Z" />
-    <path
-       id="path43"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 8,7 H 9 V 8 H 8 Z" />
-    <path
-       id="path53"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 6,5 H 7 V 6 H 6 Z" />
-    <path
-       id="path54"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 6,6 H 7 V 7 H 6 Z" />
-    <path
-       id="path55"
-       style="display:inline;fill:#000000;fill-rule:evenodd"
-       d="M 6,7 H 7 V 8 H 6 Z" />
-    <path
-       id="path64"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 5,6 H 6 V 7 H 5 Z" />
-    <path
-       id="path65"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
        d="M 4,6 H 5 V 7 H 4 Z" />
     <path
-       id="path66"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       id="path292-0-0-94-06-31"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
        d="M 3,6 H 4 V 7 H 3 Z" />
     <path
-       id="path67"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       id="path292-0-0-94-06-06"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
        d="M 2,6 H 3 V 7 H 2 Z" />
     <path
-       id="path68"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 1,6 H 2 V 7 H 1 Z" />
-    <path
-       id="path69"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       id="path292-0-0-94-06-664"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
        d="M 2,5 H 3 V 6 H 2 Z" />
     <path
-       id="path70"
+       id="path292-0-0-94-06-48"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
+       d="M 2,2 H 3 V 3 H 2 Z" />
+    <path
+       id="path292-0-0-94-06-27"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
+       d="M 4,2 H 5 V 3 H 4 Z" />
+    <path
+       id="path292-0-0-94-06-10"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
+       d="M 4,4 H 5 V 5 H 4 Z" />
+    <path
+       id="path292-0-0-94-06-94"
+       style="display:inline;fill:#000000;fill-rule:evenodd"
+       d="M 2,4 H 3 V 5 H 2 Z" />
+    <path
+       id="path292-0-0-94-06-17"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,3 H 4 V 4 H 3 Z" />
+    <path
+       id="path292-0-0-94-06-17-5"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,2 H 4 V 3 H 3 Z" />
+    <path
+       id="path292-0-0-94-06-17-6"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,1 H 4 V 2 H 3 Z" />
+    <path
+       id="path292-0-0-94-06-17-56"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 1,3 H 2 V 4 H 1 Z" />
+    <path
+       id="path292-0-0-94-06-17-8"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,3 H 3 V 4 H 2 Z" />
+    <path
+       id="path292-0-0-94-06-17-3"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 3,4 H 4 V 5 H 3 Z" />
+    <path
+       id="path292-0-0-94-06-17-85"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
        d="M 3,5 H 4 V 6 H 3 Z" />
     <path
-       id="path71"
+       id="path292-0-0-94-06-17-38"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 3,7 H 4 V 8 H 3 Z" />
+       d="M 4,3 H 5 V 4 H 4 Z" />
     <path
-       id="path72"
+       id="path292-0-0-94-06-17-1"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 2,7 H 3 V 8 H 2 Z" />
-    <path
-       id="path73"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 7,6 H 8 V 7 H 7 Z" />
-    <path
-       id="path74"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 8,6 H 9 V 7 H 8 Z" />
-    <path
-       id="path75"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,5 h 1 V 6 H 9 Z" />
-    <path
-       id="path76"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,5 h 1 v 1 h -1 z" />
-    <path
-       id="path77"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 11,6 h 1 v 1 h -1 z" />
-    <path
-       id="path78"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,7 h 1 v 1 h -1 z" />
-    <path
-       id="path79"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,7 h 1 V 8 H 9 Z" />
-    <path
-       id="path80"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,6 h 1 V 7 H 9 Z" />
-    <path
-       id="path81"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,6 h 1 v 1 h -1 z" />
+       d="M 5,3 H 6 V 4 H 5 Z" />
   </g>
 </svg>
