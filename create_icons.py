@@ -56,19 +56,17 @@ def create_scallable_icon(color):
         proc.wait()
 
 def create_cursor(size):
-    if os.path.exists(f"{output_dir}/cursors/{size}x{size}"):
-        print(f"Icon {size}x{size} already exists.")
+    if os.path.exists(f"{output_dir}/cursors/"):
+        print("Icon cursors already exists.")
         return
     else:
-        os.makedirs(f"{output_dir}/cursors/{size}x{size}")
+        os.makedirs(f"{output_dir}/cursors/")
 
-    if not os.path.exists(f"{os.getcwd()}/{output_dir}/cursors/{size}x{size}"):
-        os.makedirs(f"{os.getcwd()}/{output_dir}/cursors/{size}x{size}")
-    program = ['./convert-cursor.sh', str(size), f"{os.getcwd()}/{output_dir}/cursors/{size}x{size}/"]
+    program = ['./convert-cursor.sh', str(size), f"{os.getcwd()}/{output_dir}/cursors/"]
     proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{source_dir}/cursors")
     proc.wait()
     program = ['python', f'{os.getcwd()}/create_cursor.py', f'{size}']
-    proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{output_dir}/cursors/{size}x{size}")
+    proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{output_dir}/cursors/")
     proc.wait()
 
 def main(args):
@@ -76,10 +74,8 @@ def main(args):
         os.makedirs(output_dir)
     if args.size is None:
         sizes = icon_sizes
-        c_sizes = cursor_sizes
     else:
         sizes = [args.size]
-        c_sizes = [args.size]
 
     color = colors[args.color]
 
@@ -87,14 +83,14 @@ def main(args):
         create_icon(size, color, 'png')
 
     create_scallable_icon(color)
-    for size in c_sizes: 
-        create_cursor(size)
+    create_cursor(args.cursor_size)
 
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-s', '--size', type=int, default=None)
+    parser.add_argument('-cs', '--cursor_size', type=int, default=48)
     parser.add_argument('-c', '--color', default='purple')
     args = parser.parse_args()
     main(args)
