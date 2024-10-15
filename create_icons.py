@@ -17,11 +17,47 @@ colors = {
         }
 #todo: add remaining colors
 
+index_theme_start = """[Icon Theme]
+Name=Oneshot Icons
+Comment=Icons inspired by the ui in Oneshot: World Machine Edition
+Inherits=Mint-Y
+
+Example=folder
+
+"""
 
 output_dir = "oneshot_icons"
 source_dir = "src"
 icon_sizes = [16, 32, 48, 64, 128, 256, 512]
 cursor_sizes = [24, 32, 48, 64, 72, 120, 144, 240]
+directory_list = "Directories="
+
+
+def attach_context(output, file):
+    output += "\n"
+    match file:
+        case 'emblems':
+            output += f"Context=Emblems"
+        case 'actions':
+            output += f"Context=Actions"
+        case 'apps':
+            output += f"Context=Applications"
+        case 'categories':
+            output += f"Context=Categories"
+        case 'devices':
+            output += f"Context=Devices"
+        case 'emotes':
+            output += f"Context=Emotes"
+        case 'mimetypes':
+            output += f"Context=MimeTypes"
+        case 'panel':
+            output += f"Context=Status"
+        case 'places':
+            output += f"Context=Places"
+        case 'status':
+            output += f"Context=Status"
+    return output
+
 
 def create_icon(size, color, file_type):
     if os.path.exists(f"{output_dir}/{size}x{size}"):
@@ -29,6 +65,8 @@ def create_icon(size, color, file_type):
         return
     else:
         os.makedirs(f"{output_dir}/{size}x{size}")
+    
+    output = ""
 
     for file in os.listdir(source_dir):
         if not os.path.exists(f"{os.getcwd()}/{source_dir}/{file}/convert.sh"):
@@ -39,12 +77,23 @@ def create_icon(size, color, file_type):
         proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{source_dir}/{file}")
         proc.wait()
 
+        output += f"\n[{size}x{size}/{file}]"
+        output = attach_context(output, file)
+        output += f"\nSize={size}\nType=Fixed\n"
+        
+        global directory_list
+        directory_list += f"{size}x{size}/{file},"
+
+    return output
+
 def create_scallable_icon(color):
     if os.path.exists(f"{output_dir}/scalable"):
         print(f"Icon scalable already exists.")
         return
     else:
         os.makedirs(f"{output_dir}/scalable")
+
+    output = ""
 
     for file in os.listdir(source_dir):
         if not os.path.exists(f"{os.getcwd()}/{source_dir}/{file}/convert.sh"):
@@ -54,6 +103,14 @@ def create_scallable_icon(color):
         program = ['./convert.sh', '128', color, 'svg', f"{os.getcwd()}/{output_dir}/scalable/{file}"]
         proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{source_dir}/{file}")
         proc.wait()
+
+        output += f"\n[scalable/{file}]"
+        output = attach_context(output, file)
+        output += f"\nMinSize=16\nMaxSize=1024\nType=Scalable\n"
+        
+        global directory_list
+        directory_list += f"scalable/{file},"
+    return output
 
 def create_cursor(size):
     if os.path.exists(f"{output_dir}/cursors/"):
@@ -69,6 +126,8 @@ def create_cursor(size):
     proc = subprocess.Popen(program, cwd=f"{os.getcwd()}/{output_dir}/cursors/")
     proc.wait()
 
+
+
 def main(args):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -79,11 +138,21 @@ def main(args):
 
     color = colors[args.color]
 
-    for size in sizes:
-        create_icon(size, color, 'png')
+    icon_configs = []
 
-    create_scallable_icon(color)
+    for size in sizes:
+        icon_configs.append(create_icon(size, color, 'png'))
+
+    icon_configs.append(create_scallable_icon(color))
     create_cursor(args.cursor_size)
+
+    global directory_list
+    directory_list = directory_list[:-1] + "\n"
+    with open(f"{output_dir}/index.theme", 'w') as f:
+        f.write(index_theme_start)
+        f.write(directory_list)
+        for config in icon_configs:
+            f.write(config)
 
 
 
