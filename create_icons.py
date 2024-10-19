@@ -56,6 +56,8 @@ def attach_context(output, file):
             output += f"Context=Places"
         case 'status':
             output += f"Context=Status"
+        case 'symbolic':
+            output += f"Context=Symbolic"
     return output
 
 
@@ -84,6 +86,12 @@ def create_icon(size, color, file_type):
         global directory_list
         directory_list += f"{size}x{size}/{file},"
 
+        for subfile in os.listdir(f"{os.getcwd()}/{output_dir}/{size}x{size}/{file}"):
+            if !subfile.endswith(file_type):
+                output += f"\n[{size}x{size}/{file}/{subfile}]"
+                output = attach_context(output, file)
+                directory_list += f"{size}x{size}/{file}/{subfile},"
+
     return output
 
 def create_scallable_icon(color):
@@ -110,6 +118,13 @@ def create_scallable_icon(color):
         
         global directory_list
         directory_list += f"scalable/{file},"
+
+        for subfile in os.listdir(f"{os.getcwd()}/{output_dir}/scalable/{file}"):
+            if !subfile.endswith('svg'):
+                output += f"\n[scalable/{file}/{subfile}]"
+                output = attach_context(output, file)
+                directory_list += f"scalable/{file}/{subfile},"
+
     return output
 
 def create_cursor(size):

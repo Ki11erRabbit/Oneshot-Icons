@@ -28,7 +28,6 @@ for file in symbolic/*.svg; do
     case "$file_type" in
         png)
             rsvg-convert -a -w "$size" -h "$size" -f png -o "$output/${file%.*}.png" "$output/$file"
-            rm "$output/$file"
             echo "Converted $file"
             continue
             ;;
