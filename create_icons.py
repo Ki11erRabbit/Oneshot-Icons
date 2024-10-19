@@ -56,8 +56,6 @@ def attach_context(output, file):
             output += f"Context=Places"
         case 'status':
             output += f"Context=Status"
-        case 'symbolic':
-            output += f"Context=Symbolic"
     return output
 
 
@@ -114,6 +112,7 @@ def create_scallable_icon(color):
         proc.wait()
 
         output += f"\n[scalable/{file}]"
+        output += f"\nSize={size}\n"
         output = attach_context(output, file)
         output += f"\nMinSize=16\nMaxSize=1024\nType=Scalable\n"
         
@@ -123,6 +122,7 @@ def create_scallable_icon(color):
         for subfile in os.listdir(f"{os.getcwd()}/{output_dir}/scalable/{file}"):
             if not subfile.endswith('svg'):
                 output += f"\n[scalable/{file}/{subfile}]"
+                output += f"\nSize={size}\n"
                 output = attach_context(output, file)
                 output += f"\nMinSize=16\nMaxSize=1024\nType=Scalable\n"
                 directory_list += f"scalable/{file}/{subfile},"
