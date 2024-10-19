@@ -8,14 +8,14 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="Thunar.svg"
+   sodipodi:docname="sidebar-hide-symbolic-rtl.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#1feb07"
+     pagecolor="#00e927"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="16.84375"
-     inkscape:cy="8.0625"
+     inkscape:zoom="32"
+     inkscape:cx="5.859375"
+     inkscape:cy="12.75"
      inkscape:window-width="1390"
      inkscape:window-height="1392"
      inkscape:window-x="0"
@@ -55,215 +55,239 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Folder Outline"
-     style="display:inline">
+     inkscape:label="hide sidebar"
+     transform="matrix(-1,0,0,1,16,0)">
     <path
-       id="rect2"
-       style="fill:#ffffff;fill-rule:evenodd"
-       d="m 13,2 h 1 v 1 h -1 z" />
-    <path
-       id="rect2-5"
+       id="rect2-2-884-63"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 12,2 h 1 v 1 h -1 z" />
+       d="M 2,3 H 3 V 4 H 2 Z" />
     <path
-       id="rect2-6"
+       id="rect2-2-884-63-6"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,2 h 1 V 3 H 9 Z" />
+       d="M 3,3 H 4 V 4 H 3 Z" />
     <path
-       id="rect2-7"
+       id="rect2-2-884-63-2"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,2 h 1 v 1 h -1 z" />
+       d="M 4,3 H 5 V 4 H 4 Z" />
     <path
-       id="rect2-2"
+       id="rect2-2-884-63-3"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 11,2 h 1 v 1 h -1 z" />
+       d="M 5,3 H 6 V 4 H 5 Z" />
     <path
-       id="rect2-59"
+       id="rect2-2-884-63-26"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,3 h 1 v 1 h -1 z" />
+       d="M 6,3 H 7 V 4 H 6 Z" />
     <path
-       id="rect2-9"
+       id="rect2-2-884-63-9"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 7,3 H 8 V 4 H 7 Z" />
+    <path
+       id="rect2-2-884-63-37"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
        d="M 8,3 H 9 V 4 H 8 Z" />
     <path
-       id="rect2-1"
+       id="rect2-2-884-63-28"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 7,4 H 8 V 5 H 7 Z" />
+       d="m 9,3 h 1 V 4 H 9 Z" />
     <path
-       id="rect2-19"
+       id="rect2-2-884-63-61"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 6,4 H 7 V 5 H 6 Z" />
+       d="m 10,3 h 1 v 1 h -1 z" />
     <path
-       id="rect2-4"
+       id="rect2-2-884-63-1"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 5,4 H 6 V 5 H 5 Z" />
+       d="m 11,3 h 1 v 1 h -1 z" />
     <path
-       id="rect2-61"
+       id="rect2-2-884-63-8"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 4,4 H 5 V 5 H 4 Z" />
+       d="m 12,3 h 1 v 1 h -1 z" />
     <path
-       id="rect2-20"
+       id="rect2-2-884-63-36"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 3,4 H 4 V 5 H 3 Z" />
+       d="m 13,3 h 1 v 1 h -1 z" />
     <path
-       id="rect2-54"
+       id="rect2-2-884-63-32"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 13,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-2-884-63-5"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 12,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-2-884-63-65"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 11,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-2-884-63-7"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 10,12 h 1 v 1 h -1 z" />
+    <path
+       id="rect2-2-884-63-54"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 9,12 h 1 v 1 H 9 Z" />
+    <path
+       id="rect2-2-884-63-30"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 8,12 h 1 v 1 H 8 Z" />
+    <path
+       id="rect2-2-884-63-88"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 7,12 h 1 v 1 H 7 Z" />
+    <path
+       id="rect2-2-884-63-4"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 6,12 h 1 v 1 H 6 Z" />
+    <path
+       id="rect2-2-884-63-68"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 5,12 h 1 v 1 H 5 Z" />
+    <path
+       id="rect2-2-884-63-64"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 4,12 h 1 v 1 H 4 Z" />
+    <path
+       id="rect2-2-884-63-48"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 3,12 h 1 v 1 H 3 Z" />
+    <path
+       id="rect2-2-884-63-27"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,12 h 1 v 1 H 2 Z" />
+    <path
+       id="rect2-2-884-63-10"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,11 h 1 v 1 H 2 Z" />
+    <path
+       id="rect2-2-884-63-94"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,10 h 1 v 1 H 2 Z" />
+    <path
+       id="rect2-2-884-63-17"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="m 2,9 h 1 v 1 H 2 Z" />
+    <path
+       id="rect2-2-884-63-59"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,8 H 3 V 9 H 2 Z" />
+    <path
+       id="rect2-2-884-63-73"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,7 H 3 V 8 H 2 Z" />
+    <path
+       id="rect2-2-884-63-39"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,6 H 3 V 7 H 2 Z" />
+    <path
+       id="rect2-2-884-63-29"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 2,5 H 3 V 6 H 2 Z" />
+    <path
+       id="rect2-2-884-63-885"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
        d="M 2,4 H 3 V 5 H 2 Z" />
     <path
-       id="rect2-69"
+       id="rect2-2-884-63-38"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 1,5 H 2 V 6 H 1 Z" />
+       d="m 13,4 h 1 v 1 h -1 z" />
     <path
-       id="rect2-52"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 1,6 H 2 V 7 H 1 Z" />
-    <path
-       id="rect2-44"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 1,7 H 2 V 8 H 1 Z" />
-    <path
-       id="rect2-8"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 1,8 H 2 V 9 H 1 Z" />
-    <path
-       id="rect2-43"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,9 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-206"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,10 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-66"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,11 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-0"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,12 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-17"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,13 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-26"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 1,14 h 1 v 1 H 1 Z" />
-    <path
-       id="rect2-15"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="M 8,5 H 9 V 6 H 8 Z" />
-    <path
-       id="rect2-09"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,5 h 1 V 6 H 9 Z" />
-    <path
-       id="rect2-11"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,5 h 1 v 1 h -1 z" />
-    <path
-       id="rect2-76"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 11,5 h 1 v 1 h -1 z" />
-    <path
-       id="rect2-56"
-       style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 12,5 h 1 v 1 h -1 z" />
-    <path
-       id="rect2-81"
+       id="rect2-2-884-63-15"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
        d="m 13,5 h 1 v 1 h -1 z" />
     <path
-       id="rect2-90"
+       id="rect2-2-884-63-81"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,5 h 1 v 1 h -1 z" />
+       d="m 13,6 h 1 v 1 h -1 z" />
     <path
-       id="rect2-096"
+       id="rect2-2-884-63-44"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,4 h 1 v 1 h -1 z" />
+       d="m 13,7 h 1 v 1 h -1 z" />
     <path
-       id="rect2-611"
+       id="rect2-2-884-63-63"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,6 h 1 v 1 h -1 z" />
+       d="m 13,8 h 1 v 1 h -1 z" />
     <path
-       id="rect2-48"
+       id="rect2-2-884-63-96"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,7 h 1 v 1 h -1 z" />
+       d="m 13,9 h 1 v 1 h -1 z" />
     <path
-       id="rect2-04"
+       id="rect2-2-884-63-85"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,8 h 1 v 1 h -1 z" />
+       d="m 13,10 h 1 v 1 h -1 z" />
     <path
-       id="rect2-763"
+       id="rect2-2-884-63-859"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,9 h 1 v 1 h -1 z" />
+       d="m 13,11 h 1 v 1 h -1 z" />
     <path
-       id="rect2-96"
+       id="rect2-2-884-63-883"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,10 h 1 v 1 h -1 z" />
+       d="M 4,7 H 5 V 8 H 4 Z" />
     <path
-       id="rect2-85"
+       id="rect2-2-884-63-643"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,11 h 1 v 1 h -1 z" />
+       d="M 4,8 H 5 V 9 H 4 Z" />
     <path
-       id="rect2-859"
+       id="rect2-2-884-63-60"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,12 h 1 v 1 h -1 z" />
+       d="M 5,6 H 6 V 7 H 5 Z" />
     <path
-       id="rect2-88"
+       id="rect2-2-884-63-89"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,13 h 1 v 1 h -1 z" />
+       d="M 6,5 H 7 V 6 H 6 Z" />
     <path
-       id="rect2-964"
+       id="rect2-2-884-63-43"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 14,14 h 1 v 1 h -1 z" />
+       d="m 5,9 h 1 v 1 H 5 Z" />
     <path
-       id="rect2-86"
+       id="rect2-2-884-63-92"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 13,14 h 1 v 1 h -1 z" />
+       d="m 6,10 h 1 v 1 H 6 Z" />
     <path
-       id="rect2-889"
+       id="rect2-2-884-63-594"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 12,14 h 1 v 1 h -1 z" />
+       d="m 7,10 h 1 v 1 H 7 Z" />
     <path
-       id="rect2-430"
+       id="rect2-2-884-63-62"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 11,14 h 1 v 1 h -1 z" />
+       d="M 7,5 H 8 V 6 H 7 Z" />
     <path
-       id="rect2-25"
+       id="rect2-2-884-63-240"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 10,14 h 1 v 1 h -1 z" />
+       d="M 7,6 H 8 V 7 H 7 Z" />
     <path
-       id="rect2-94"
+       id="rect2-2-884-63-90"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 9,14 h 1 v 1 H 9 Z" />
+       d="M 7,7 H 8 V 8 H 7 Z" />
     <path
-       id="rect2-24"
+       id="rect2-2-884-63-11"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 8,14 h 1 v 1 H 8 Z" />
+       d="M 7,8 H 8 V 9 H 7 Z" />
     <path
-       id="rect2-481"
+       id="rect2-2-884-63-03"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 7,14 h 1 v 1 H 7 Z" />
+       d="m 7,9 h 1 v 1 H 7 Z" />
     <path
-       id="rect2-3"
+       id="rect2-2-884-63-69"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 6,14 h 1 v 1 H 6 Z" />
+       d="m 6,9 h 1 v 1 H 6 Z" />
     <path
-       id="rect2-21"
+       id="rect2-2-884-63-05"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 5,14 h 1 v 1 H 5 Z" />
+       d="M 6,8 H 7 V 9 H 6 Z" />
     <path
-       id="rect2-10"
+       id="rect2-2-884-63-00"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 4,14 h 1 v 1 H 4 Z" />
+       d="M 6,7 H 7 V 8 H 6 Z" />
     <path
-       id="rect2-64"
+       id="rect2-2-884-63-67"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 3,14 h 1 v 1 H 3 Z" />
+       d="M 6,6 H 7 V 7 H 6 Z" />
     <path
-       id="rect2-862"
+       id="rect2-2-884-63-87"
        style="display:inline;fill:#ffffff;fill-rule:evenodd"
-       d="m 2,14 h 1 v 1 H 2 Z" />
+       d="M 5,7 H 6 V 8 H 5 Z" />
+    <path
+       id="rect2-2-884-63-99"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd"
+       d="M 5,8 H 6 V 9 H 5 Z" />
   </g>
 </svg>
