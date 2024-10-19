@@ -89,7 +89,7 @@ def create_icon(size, color, file_type):
         for subfile in os.listdir(f"{os.getcwd()}/{output_dir}/{size}x{size}/{file}"):
             if not subfile.endswith(file_type):
                 output += f"\n[{size}x{size}/{file}/{subfile}]"
-                output = attach_context(output, file)
+                output = attach_context(output, subfile)
                 directory_list += f"{size}x{size}/{file}/{subfile},"
 
     return output
@@ -122,7 +122,7 @@ def create_scallable_icon(color):
         for subfile in os.listdir(f"{os.getcwd()}/{output_dir}/scalable/{file}"):
             if not subfile.endswith('svg'):
                 output += f"\n[scalable/{file}/{subfile}]"
-                output = attach_context(output, file)
+                output = attach_context(output, subfile)
                 directory_list += f"scalable/{file}/{subfile},"
 
     return output
